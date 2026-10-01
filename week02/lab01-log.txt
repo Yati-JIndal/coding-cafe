@@ -1,0 +1,32 @@
+   67  source .venv/bin/diactivate
+   68  .venv
+   69  echo $PATH
+   70  ls
+   71  deactivate
+   72  which python3
+   73  .venv/bin/activate
+   74  ls
+   75  man ls
+   76  ls -h
+   77  man man
+   78  man ls -h
+   79  man ls -h
+   80  ls -h
+   81  cd
+   82  ls -h
+   109  which python3
+   110  which pip
+   111  which ls
+   112  cd coding-cafe/
+   113  python -m venv .venv
+   114  python3 -m venv .venv
+   115  ls
+   116  ls -a
+   117  source .venv/bin/activate
+   118  which python3
+   119  pip list
+   120  pip install requests
+   121  pip list
+   122  deactivate
+   123  which python3
+   124  man ls
